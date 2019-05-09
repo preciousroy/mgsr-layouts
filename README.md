@@ -1,1 +1,3 @@
-# esaw19-layouts
+# mgsr-layouts
+
+A fork of esaw19-layouts (hopefully) for MetalGearSpeedRunners
