@@ -1,9 +1,9 @@
 /* Custom Fonts */
-@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed:500&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
 
 /* Some general settings used for everything and other minor changes to the body. */
 body {
-	font-family: 'Barlow Condensed', sans-serif;
+	font-family: 'Inconsolata', monospace;
 	color: white;
 	overflow: hidden;
 	margin: 0;
