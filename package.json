@@ -59,13 +59,7 @@
         "file": "game-layout.html",
         "width": 1920,
         "height": 1080
-      },
-      {
-        "file": "background.html",
-        "width": 1920,
-        "height": 1080,
-        "singleInstance": true
-      }    
+      }
     ],
     "dashboardPanels": [
       {
