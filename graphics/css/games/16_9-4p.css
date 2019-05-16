@@ -4,6 +4,7 @@
 	width: 404px;
 	height: 224px;
 	outline: 0;
+	outline-color: #3f3f3f;
 	box-shadow: 0 -3px 0 #39b0f6; /* Outline override. */
 }
 
@@ -13,6 +14,7 @@
 	width: 404px;
 	height: 224px;
 	outline: 0;
+	outline-color: #3f3f3f;
 	box-shadow: 0 3px 0 #39b0f6; /* Outline override. */
 }
 
