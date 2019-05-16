@@ -5,7 +5,7 @@
 	height: 224px;
 	outline: 0;
 	outline-color: #3f3f3f;
-	box-shadow: 0 -3px 0 #39b0f6; /* Outline override. */
+	/*box-shadow: 0 -3px 0 #39b0f6; /* Outline override. */
 }
 
 #webcam2 {
@@ -15,7 +15,7 @@
 	height: 224px;
 	outline: 0;
 	outline-color: #3f3f3f;
-	box-shadow: 0 3px 0 #39b0f6; /* Outline override. */
+	/*box-shadow: 0 3px 0 #39b0f6; /* Outline override. */
 }
 
 #playerWrapperMulti1 {
@@ -107,7 +107,10 @@
 
 	outline: 0;
 }
-
+#timer {
+	font-size: 100px;
+	margin-top: -0.15em;
+}
 .sponsorLogo {
 	margin: 25px;
 }
