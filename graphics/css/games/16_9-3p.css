@@ -81,6 +81,10 @@
 #gameName {
 	font-size: 50px;
 }
+#timer {
+	font-size: 100px;
+	margin-top: -0.15em;
+}
 
 /* Category/Console/Estimate */
 #gameAdditionalDetails {
