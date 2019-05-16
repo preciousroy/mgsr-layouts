@@ -45,7 +45,7 @@ $(() => {
 		$('#timer').toggleClass('timer_'+newVal.state, true);
 		
 		$('#timer').html(time);
-		$('#timer').lettering(); // Makes each character into a <span>.
+		//$('#timer').lettering(); // Makes each character into a <span>.
 		currentTime = time;
 	}
 
